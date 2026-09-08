@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml_pricing_domain)
+ (name main)
+ (libraries ocaml_pricing_domain))

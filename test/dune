@@ -1,0 +1,5 @@
+(test
+ (name test_ocaml_pricing_domain)
+ (libraries
+  alcotest
+  ocaml_pricing_domain))
