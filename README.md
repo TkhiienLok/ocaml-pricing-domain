@@ -1,10 +1,10 @@
 # OCaml Pricing Domain
 
 A small domain-modelling experiment based on pricing rules
-from my portrait commission application.
+from my portrait commission website, [lokchanart.com](https://lokchanart.com).
 
-The production application currently implements these rules
-in TypeScript. This project explores how the same domain can
+The live website uses TypeScript for pricing and checkout; it does not use
+this OCaml module. This project explores how the same domain can
 be represented using OCaml's algebraic data types, modules
 and pure functions.
 
