@@ -8,6 +8,10 @@ this OCaml module. This project explores how the same domain can
 be represented using OCaml's algebraic data types, modules
 and pure functions.
 
+For more detail on the intended use of this library, the tests-first migration
+plan, and possible future integration with the website, see
+[Moving portrait pricing into OCaml: tests first](https://lokchanart.com/en/engineering-lab/ocaml-pricing-tests-first).
+
 ## Goals
 
 - model monetary values explicitly in cents
